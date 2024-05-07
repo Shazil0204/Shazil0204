@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shazil Shahid Abdul Qayyum Abdul Aziz Muhammad Ali.
 - 👀 I’m interested in Database a lot more than i ever thought i will be.
-- 🌱 I’m currently learning React with Typescript and SCSS
+- 🌱 I’m currently learning React with Typescript and ...
 - 📫 How to reach me: You can send me an email on ssq.zbc.23@gmail.com or Shaz0184@zbc.dk
 
 <!---
