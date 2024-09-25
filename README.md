@@ -1,3 +1,5 @@
+![Hej](https://tenor.com/view/hej-hej-gif-25495606)
+
 # 💫 About Me:
 I’m a 20-year-old full-stack student from Ringsted, Denmark.<br>I’m passionate about learning and exploring different frameworks and libraries.<br>Currently, I’m diving into React Native and absolutely loving it!<br>I’m excited to share my projects and collaborate with others in the community.<br>
 
