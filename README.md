@@ -1,4 +1,4 @@
-Venligst læreplads. Tak!
+Venligst læreplads. Tak!!!
 
 ![hej-hej](https://github.com/user-attachments/assets/c8e8197d-0272-4ae9-b8c6-e2f05831b934)
 
